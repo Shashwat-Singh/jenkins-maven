@@ -4,7 +4,7 @@
 
   <name>${project.groupId}:${project.artifactId}</name>
   <description>BuildCollector Microservice</description>
-  <url>https://github.com/capitalone/Hygieia</url>
+  <url>https://github.com/Shashwat-Singh/jenkins-maven.git</url>
   <packaging>jar</packaging>
 
   <artifactId>jenkins-build-collector</artifactId>
